@@ -33,8 +33,6 @@ To use the app, simply type a word in the search bar to retrieve its definitions
 A live demo of the React Dictionary App is available at [LINK TO LIVE DEMO](https://dictionary-react-app-kohl.vercel.app).
 
 # Credits
-- The dictionary app was created by [Abel Janko](https://github.com/jankoabel) .
+- The dictionary app was created by [Even Bahta](https://github.com/Evenbahta) .
 - The app uses the [Free Dictionary API](https://dictionaryapi.dev) for word information and the [Pexels API](https://www.pexels.com/api/documentation/) for images.
-
-# License
-This project is licensed under the MIT license.
+ense.
